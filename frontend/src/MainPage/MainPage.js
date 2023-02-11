@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./MainPage.css"
-import {Grid, Modal, Typography} from '@mui/material';
+import {Grid, Typography} from '@mui/material';
 import BestPredictions from "./BestPredictions/BestPredictions";
 
 const ModalButton = ({clickCallback}) => {
