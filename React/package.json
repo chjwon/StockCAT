@@ -1,9 +1,11 @@
 {
-    "name": "dsas-tw",
+    "name": "StockCAT",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
       "@mui/material": "^5.8.5",
+      "@emotion/react": "^11.9.3",
+      "@emotion/styled": "^11.9.3",
       "@testing-library/jest-dom": "^5.15.0",
       "@testing-library/react": "^11.1.0",
       "@testing-library/user-event": "^12.1.10",

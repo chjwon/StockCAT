@@ -5,7 +5,7 @@ import {
   Route
 } from "react-router-dom";
 import './App.css';
-
+import MainPage from "./MainPage/MainPage";
 
 
 function App() {
@@ -13,9 +13,7 @@ function App() {
     <Router>
       <Switch>
         <Route exact path="/">
-            <div>
-                hello world
-            </div>
+            <MainPage/>
         </Route>
       </Switch>
     </Router>

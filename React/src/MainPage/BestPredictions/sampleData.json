@@ -1,0 +1,36 @@
+{
+    "date": "2023-02-11T21:03:10.014Z",
+    "fieldName" : "Technology",
+    "top5" : [
+        {
+            "stockID": "AAPL",
+            "stockName" : "Apple Inc",
+            "currentPrice" : 255,
+            "projectedGain" : 5
+        },
+        {
+            "stockID": "AAPL",
+            "stockName" : "Apple Inc",
+            "currentPrice" : 255,
+            "projectedGain" : 5
+        },
+        {
+            "stockID": "AAPL",
+            "stockName" : "Apple Inc",
+            "currentPrice" : 255,
+            "projectedGain" : 5
+        },
+        {
+            "stockID": "AAPL",
+            "stockName" : "Apple Inc",
+            "currentPrice" : 255,
+            "projectedGain" : 5
+        },
+        {
+            "stockID": "AAPL",
+            "stockName" : "Apple Inc",
+            "currentPrice" : 255,
+            "projectedGain" : 5
+        }
+    ]
+}
