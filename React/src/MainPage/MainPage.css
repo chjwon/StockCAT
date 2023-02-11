@@ -13,10 +13,13 @@
 .modalButton {
     background-color: white;
     width : 600px;
-    height : 200px;
+    height : 190px;
     border-radius: 25px;
     text-align: center;
     cursor: pointer;
+    outline: solid;
+    outline-width: 10px;
+    outline-color: gray;
 }
 
 .modalButton:hover {
