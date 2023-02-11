@@ -1,0 +1,10 @@
+.content {
+    margin-right: auto; 
+    margin-left: auto; 
+    height : 60vh;
+    width: 60vw;
+    background-color: white;
+    outline: solid;
+    outline-width: 10px;
+    outline-color: gray;
+}
